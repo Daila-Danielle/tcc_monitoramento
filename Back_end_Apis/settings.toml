@@ -1,0 +1,10 @@
+[default]
+DEBUG = true
+
+
+EXTENSIONS = [
+    "Apis.Rotas:init_App",  
+]
+
+
+
